@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5934bd86-6402-46f6-bca5-3c8080d7daec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/PrintService.java" afterDir="false" />
+    <list default="true" id="5934bd86-6402-46f6-bca5-3c8080d7daec" name="Changes" comment="generic types">
+      <change afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/CalculationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/PrintService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +76,23 @@
       <option name="presentableId" value="Default" />
       <updated>1678190403619</updated>
       <workItem from="1678190405288" duration="1727000" />
-      <workItem from="1678274666722" duration="2167000" />
+      <workItem from="1678274666722" duration="5269000" />
     </task>
+    <task id="LOCAL-00001" summary="generic types">
+      <created>1678277013702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678277013702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="generic types" />
+    <option name="LAST_COMMIT_MESSAGE" value="generic types" />
   </component>
 </project>
